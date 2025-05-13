@@ -11,6 +11,6 @@
         echo 'Curso de PHP';
     ?>
     <br>
-    <?= 'Impressão PHP' ?>
+    <?= 'Impressão PHP'?>
 </body>
 </html>
